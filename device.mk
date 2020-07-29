@@ -107,6 +107,9 @@ $(call inherit-product, build/target/product/verity.mk)
 # Via
 PRODUCT_PACKAGES += \
     Via
+PRODUCT_PACKAGES += \
+    Dialer
+
 
 # GCam Go
 PRODUCT_PACKAGES += \
