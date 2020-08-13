@@ -114,3 +114,9 @@ PRODUCT_PACKAGES += \
 # GCam Go
 PRODUCT_PACKAGES += \
     GCam
+REMOVE_GAPPS_PACKAGES += \
+    GoogleCamera \
+    GoogleDialer \
+    Photos \
+    LatinIME \
+    WellbeingPrebuilt

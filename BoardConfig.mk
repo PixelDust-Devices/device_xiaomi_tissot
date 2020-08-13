@@ -15,7 +15,7 @@
 
 # Inherit from common msm8953-common
 -include device/xiaomi/msm8953-common/BoardConfigCommon.mk
-
+TARGET_EXCLUDE_QCOM_VENDOR_SEPOLICY := true
 DEVICE_PATH := device/xiaomi/tissot
 
 # Filesystem
