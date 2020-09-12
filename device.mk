@@ -118,5 +118,13 @@ REMOVE_GAPPS_PACKAGES += \
     GoogleCamera \
     GoogleDialer \
     Photos \
-    LatinIME \
-    WellbeingPrebuilt
+    WellbeingPrebuilt \
+    NexusLauncherRelease \
+    Chrome \
+    CalendarGooglePrebuilt \
+    GoogleContacts \
+    NexusWallpapersStubPrebuilt2019 \
+    Photos \
+    GCS \
+    PixelLiveWallpaperPrebuilt \
+    
